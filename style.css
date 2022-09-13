@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	font-family: 'DynaPuff', cursive;
+	font-style: bold;
+	color: ;
+}
+
+
+body{
+	background-image: url("./pictures/tft_2.jpg");
+	color: ;
+	font-family: 'DynaPuff', cursive;
+	text-align: center;
+	padding: 3px;
+}
+
+
+table{
+	border-collapse: collapse;
+}
+
+.synergy{
+	background-color: #eebbcb;
+}
+
+
+.name{
+	background-color: ;
+}
