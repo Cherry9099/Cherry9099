@@ -4,7 +4,6 @@
 - 📫 How to reach me :         nthyn99@gmail.com
 - My favorite css color site: https://www.colordic.org/w
 - The cutest font I think: "quick love". I love the person who made this!!!
-- 
 
 I'll do my best, Take good care of me!!
 thanks for reading~ <3
