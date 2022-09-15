@@ -6,12 +6,14 @@ h1{
 }
 
 
+
 body{
-	background-image: url("./pictures/tft_2.jpg");
-	color: ;
+	background-color: #8b968d;
+	/*background-image: url("./pictures/tft_2.jpg");*/
 	font-family: 'DynaPuff', cursive;
 	text-align: center;
 	padding: 3px;
+
 }
 
 
@@ -20,10 +22,15 @@ table{
 }
 
 .synergy{
-	background-color: #eebbcb;
+	background-color: #333631;
+	color: #eaedf7;
 }
 
 
 .name{
 	background-color: ;
+}
+
+.Description{
+	margin: 10px 50px 20px 0;
 }
