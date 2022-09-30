@@ -1,0 +1,21 @@
+a{
+  position: relative;
+}
+
+a:after{
+  content: "";
+  position: absolute;
+  top: 1em;
+  left: 0;
+  display: inline-block;
+  pointer-events: none;
+  width: 300px;
+  height: 300px;
+}
+
+a:hover:after{
+  background: url("./astral/nidalee1.png"); /* 表示する画像 */
+  background-size: 400px; 
+  background-repeat: no-repeat;
+  background-position: center top;
+}

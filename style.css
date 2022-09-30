@@ -8,8 +8,9 @@ h1{
 
 
 body{
-	background-color: #8b968d;
-	/*background-image: url("./pictures/tft_2.jpg");*/
+	color:#e7e7eb;
+	background-color: #333631;
+	/*background-image:url("./pictures/tft_3.jpEg");*/
 	font-family: 'DynaPuff', cursive;
 	text-align: center;
 	padding: 3px;
@@ -22,13 +23,13 @@ table{
 }
 
 .synergy{
-	background-color: #333631;
-	color: #eaedf7;
+	background-color: #333431;
+	color: #e7e7eb;
 }
 
 
-.name{
-	background-color: ;
+.name .a:hover{
+	transform: scale(1.3, 1.3);
 }
 
 .Description{
